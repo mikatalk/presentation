@@ -88,14 +88,14 @@
 
 
 				<section>
-					<h3>Organizing the Frontend</h3>
+					<h3>Abstracting the core and npm</h3>
 					<img class="no-border" src="images/frontend-core.svg" />
 				</section>
 				
 		
-				<section style="text-align: left;">
+				<section>
 					<h3>Results</h3>
-					<div style="font-size: 60%;">
+					<div style="font-size: 52%;">
 						<p>
 							<em>Consistency</em>
 							<br/>
@@ -117,6 +117,17 @@
 							<br/>
 							<span class="smaller-text">
 								The core library is cached accross all products for faster page load.
+								<br/>
+								Combination of Webpack code splitting and external dependencies.
+							</span>
+						</p>
+						<p>
+							<em>Scalable</em>
+							<br/>
+							<span class="smaller-text">
+								Each project gets its own repository, all dependencies are maintained by the core.
+								<br/>
+								Based on standard NPM commands so not coupled to any framework if not needed.
 							</span>
 						</p>
 						<p>
@@ -132,11 +143,11 @@
 							<span class="smaller-text">
 								Projects can be auditted independently.
 								<br/>
-								Local unit tests per projects
+								Local unit tests per projects (JEST)
 								<br/>
-								End to End tests run per project (offline with mocked apis)
+								End to End tests run per project (cypress.io with offline mocked APIs)
 								<br>
-								Broad integration test on staging servers
+								Broad integration tests (Selenium) on staging servers
 							</span>
 						</p>
 					</div>
