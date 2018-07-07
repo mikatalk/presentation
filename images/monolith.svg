@@ -1,0 +1,97 @@
+
+<svg width="810px" height="313px" viewBox="0 0 810 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M46.0021695,204 L208.278673,204 C212.696951,204 216.278673,207.581722 216.278673,212 C216.278673,212.904836 216.125169,213.803116 215.824695,214.656605 L197.165846,267.656605 C196.038722,270.858175 193.014004,273 189.619824,273 L63.6229902,273 C60.1772538,273 57.1186477,270.793671 56.0315561,267.523911 L38.4107354,214.523911 C37.0168177,210.331278 39.2856249,205.802484 43.4782582,204.408566 C44.2922182,204.13795 45.1444028,204 46.0021695,204 Z" id="path-1"></path>
+        <rect id="path-2" x="574" y="0" width="241" height="313" rx="8"></rect>
+        <rect id="path-3" x="581" y="50" width="226" height="255"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(-5.000000, 0.000000)">
+            <polygon id="Polygon" stroke="#979797" fill="#FFDF9B" points="127.5 49 248.759706 137.100333 202.44262 279.649667 52.5573803 279.649667 6.24029417 137.100333"></polygon>
+            <text id="Monolith-App" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#575757">
+                <tspan x="65.76" y="139">Monolith</tspan>
+                <tspan x="98.656" y="176">App</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="#65CE6B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#979797" stroke-width="1" d="M46.0021695,204.5 C45.1980132,204.5 44.3990901,204.629328 43.6360027,204.883031 C39.705409,206.189828 37.5784022,210.435573 38.8852001,214.366167 L56.5060207,267.366167 C57.5251691,270.431567 60.3926123,272.5 63.6229902,272.5 L189.619824,272.5 C192.801868,272.5 195.63754,270.492039 196.69422,267.490568 L215.353068,214.490568 C215.634763,213.690421 215.778673,212.848284 215.778673,212 C215.778673,207.857864 212.420808,204.5 208.278673,204.5 L46.0021695,204.5 Z"></path>
+            </g>
+            <g id="Group-3" transform="translate(247.000000, 139.000000)">
+                <g id="Group" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="297 25.5 263 51 263 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(132.000000, 25.000000) rotate(-270.000000) translate(-132.000000, -25.000000) " points="122 -107 142 -107 142 157 122 150.363562"></polygon>
+                </g>
+                <text id="JSON---APIs" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="27" y="21">JSON - APIs</tspan>
+                </text>
+            </g>
+            <text id="CDN" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="92.632" y="246">CDN</tspan>
+            </text>
+            <g id="Group-3-Copy" transform="translate(193.000000, 49.000000)">
+                <g id="Group" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="351 25.5 317 51 317 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(159.000000, 25.000000) rotate(-270.000000) translate(-159.000000, -25.000000) " points="149 -134 169 -134 169 156.672607 149 184"></polygon>
+                </g>
+                <text id="HTML---content" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="81" y="21">HTML - content</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(218.000000, 225.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="326 25.5 292 51 292 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(147.000000, 24.500000) rotate(-270.000000) translate(-147.000000, -24.500000) " points="137 -122 157 -122 157 171 137 165.013039"></polygon>
+                </g>
+                <text id="Static-Assets---JS/C" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="55" y="21">Static Assets - JS/CSS</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-4">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="574.5" y="0.5" width="240" height="312" rx="8"></rect>
+            </g>
+            <text id="WEB-PAGE" font-family="HelveticaNeue, Helvetica Neue" font-size="25" font-weight="normal" fill="#002001">
+                <tspan x="610.85" y="36">WEB PAGE</tspan>
+            </text>
+            <g id="Rectangle-3">
+                <use fill="#111415" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="581.5" y="50.5" width="225" height="254"></rect>
+            </g>
+            <g id="Group-5-Copy" transform="translate(591.000000, 58.000000)" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal">
+                <text id="&lt;link-CSS-/&gt;" fill="#65CE6B">
+                    <tspan x="25" y="73">&lt;link </tspan>
+                    <tspan x="77.734" y="73" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">CSS</tspan>
+                    <tspan x="122.592" y="73"> /&gt;</tspan>
+                </text>
+                <text id="&lt;script-JS-/&gt;" fill="#65CE6B">
+                    <tspan x="24" y="177">&lt;script </tspan>
+                    <tspan x="98.316" y="177" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">JS</tspan>
+                    <tspan x="124.826" y="177">  /&gt;</tspan>
+                </text>
+                <text id="&lt;html&gt;-copy" fill="#65B7CE">
+                    <tspan x="0" y="21">&lt;html&gt;</tspan>
+                </text>
+                <text id="&lt;head&gt;-copy" fill="#65B7CE">
+                    <tspan x="12" y="47">&lt;head&gt;</tspan>
+                </text>
+                <text id="&lt;/head&gt;-copy" fill="#65B7CE">
+                    <tspan x="13" y="99">&lt;/head&gt;</tspan>
+                </text>
+                <text id="&lt;body&gt;" fill="#65B7CE">
+                    <tspan x="12" y="125">&lt;body&gt;</tspan>
+                </text>
+                <text id="&lt;content-/&gt;" fill="#65B7CE">
+                    <tspan x="25" y="151">&lt;content /&gt;</tspan>
+                </text>
+                <text id="&lt;/body&gt;-copy" fill="#65B7CE">
+                    <tspan x="12" y="203">&lt;/body&gt;</tspan>
+                </text>
+                <text id="&lt;/html&gt;-copy" fill="#65B7CE">
+                    <tspan x="0" y="229">&lt;/html&gt;</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

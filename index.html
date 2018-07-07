@@ -1,0 +1,171 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Mika I.</title>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/sky.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				
+				<section>
+					<h4>Interview Presentation</h4>
+					<img class="photo-circle" src="images/portrait.png" />
+					<p>
+						MICHAEL 'MIKA' IRIARTE
+					</p>
+				</section>
+			
+
+				<section>
+					<ul>
+						<li class="fragment" data-fragment-index="1">
+							<b>2007</b> Masters Degree
+						</li>
+						<li class="fragment" data-fragment-index="2">
+							<b>2008</b> Freelance Web Developer
+						</li>
+						<li class="fragment" data-fragment-index="3">
+							<b>2010</b> Heavenspot, Creative Agency
+						</li>
+						<li class="fragment" data-fragment-index="4">
+							<b>2011</b> Hulu, Flash Developer
+						</li>
+						<li class="fragment" data-fragment-index="5">
+							<b>2012</b> JibJab, Software Engineer
+						</li>
+						<li class="fragment" data-fragment-index="6">
+							<b>2015</b> Indie Game Developer
+						</li>
+						<li class="fragment" data-fragment-index="7">
+							<b>2016</b> Enplug, Senior Software Engineer
+						</li>
+						<li class="fragment" data-fragment-index="8">
+							<b>2017</b> PatientPop, Senior Frontend Engineer
+						</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<h2>Breaking the monolith</h2>
+				</section>
+				
+
+				<section>
+					<h3>Monolith Architecture</h3>
+					<img class="no-border" src="images/monolith.svg" />
+				</section>
+
+				
+				<section>
+					<h3>Microservices</h3>
+					<img class="no-border" src="images/microservices.svg" />
+				</section>
+				
+
+				<section>
+					<h3>Organizing the Frontend</h3>
+					<img class="no-border" src="images/frontend-projects.svg" />
+				</section>
+
+
+				<section>
+					<h3>Organizing the Frontend</h3>
+					<img class="no-border" src="images/frontend-core.svg" />
+				</section>
+				
+		
+				<section style="text-align: left;">
+					<h3>Results</h3>
+					<div style="font-size: 60%;">
+						<p>
+							<em>Consistency</em>
+							<br/>
+							<span class="smaller-text">
+								The core provides a design system and UI kit for project teams to build with.
+							</span>
+						</p>
+						<p>
+							<em>Fast Deployments</em>
+							<br/>
+							<span class="smaller-text">
+								Static bundles are packaged into version directories on S3 buckets. 
+								<br/>
+								Releases and roll-backs are instant and require no CDN invalidations.
+							</span>
+						</p>
+						<p>
+							<em>Performance</em>
+							<br/>
+							<span class="smaller-text">
+								The core library is cached accross all products for faster page load.
+							</span>
+						</p>
+						<p>
+							<em>Security</em>
+							<br/>
+							<span class="smaller-text">
+								Core team is responsible for managing and whitelisting npm packages that are available to projects.
+							</span>
+						</p>
+						<p>
+							<em>Testing</em>
+							<br/>
+							<span class="smaller-text">
+								Projects can be auditted independently.
+								<br/>
+								Local unit tests per projects
+								<br/>
+								End to End tests run per project (offline with mocked apis)
+								<br>
+								Broad integration test on staging servers
+							</span>
+						</p>
+					</div>
+				</section>
+
+				
+				<section>
+					<h4>Questions?</h4>
+				</section>
+	
+					
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,136 @@
+
+<svg width="622px" height="320px" viewBox="0 0 622 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="406" y="10" width="241" height="313" rx="8"></rect>
+        <rect id="path-2" x="413" y="60" width="226" height="255"></rect>
+        <polygon id="path-3" points="147.905728 87.5932402 212.856136 134.782474 188.047288 211.136258 107.764168 211.136258 82.9553199 134.782474"></polygon>
+        <filter x="-2.0%" y="-2.1%" width="104.0%" height="104.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="181" height="59"></rect>
+        <rect id="path-6" x="0" y="0" width="181" height="59"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(-25.000000, -3.000000)">
+            <g id="Group-2-Copy" transform="translate(230.000000, 111.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="152 25.5 118 51 118 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(59.996740, 24.500000) rotate(-270.000000) translate(-59.996740, -24.500000) " points="49.9967404 -35.0032596 69.9967404 -35.0032596 69.9967404 84.0032596 49.9967404 84.0032596"></polygon>
+                </g>
+                <text id="JSON" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="27" y="21">JSON</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy-3" transform="translate(230.000000, 245.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="152 25.5 118 51 118 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(59.996740, 24.500000) rotate(-270.000000) translate(-59.996740, -24.500000) " points="49.9967404 -35.0032596 69.9967404 -35.0032596 69.9967404 84.0032596 49.9967404 84.0032596"></polygon>
+                </g>
+                <text id="Assets" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="27" y="21">Assets</tspan>
+                </text>
+            </g>
+            <g id="Group-2-Copy-2" transform="translate(230.000000, 0.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 15.000000)" fill="#BBD4DB">
+                    <polygon id="Triangle" points="152 25.5 118 51 118 0"></polygon>
+                    <polygon id="Rectangle" transform="translate(59.996740, 24.500000) rotate(-270.000000) translate(-59.996740, -24.500000) " points="49.9967404 -35.0032596 69.9967404 -35.0032596 69.9967404 84.0032596 49.9967404 84.0032596"></polygon>
+                </g>
+                <text id="HTML" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                    <tspan x="27" y="21">HTML</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-4-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="406.5" y="10.5" width="240" height="312" rx="8"></rect>
+            </g>
+            <text id="WEB-PAGE-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="25" font-weight="normal" fill="#002001">
+                <tspan x="442.85" y="46">WEB PAGE</tspan>
+            </text>
+            <g id="Rectangle-3-Copy">
+                <use fill="#111415" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="413.5" y="60.5" width="225" height="254"></rect>
+            </g>
+            <polygon id="Polygon-2-Copy-2" stroke="#979797" fill="#FFDF9B" transform="translate(72.500000, 201.000000) rotate(18.000000) translate(-72.500000, -201.000000) " points="72.5 143.5 127.18575 183.231523 106.297652 247.518477 38.702348 247.518477 17.8142503 183.231523"></polygon>
+            <polygon id="Polygon-2-Copy-4" stroke="#979797" fill="#FFDF9B" transform="translate(73.360794, 94.513729) rotate(18.000000) translate(-73.360794, -94.513729) " points="107.698995 55.6891668 125.64488 69.0513374 104.756783 133.338292 37.1614787 133.338292 21.0767069 83.8344542"></polygon>
+            <polygon id="Polygon-2-Copy-3" stroke="#979797" fill="#FFDF9B" transform="translate(172.845963, 220.245969) rotate(18.000000) translate(-172.845963, -220.245969) " points="178.920492 175.636899 201.33854 189.003377 218.189186 240.864333 144.353386 264.855039 127.50274 212.994083"></polygon>
+            <g id="Polygon-2-Copy" transform="translate(147.905728, 149.364749) rotate(-162.000000) translate(-147.905728, -149.364749) ">
+                <use fill="#65A0CE" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use stroke="#979797" stroke-width="1" xlink:href="#path-3"></use>
+            </g>
+            <text id="API-gateway" font-family="HelveticaNeue, Helvetica Neue" font-size="26" font-weight="normal" fill="#002001">
+                <tspan x="129.330773" y="136.545773">API</tspan>
+                <tspan x="111.965773" y="167.545773" font-size="20">gateway</tspan>
+            </text>
+            <text id="micro-service" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#002001">
+                <tspan x="35" y="91">micro</tspan>
+                <tspan x="35" y="114">service</tspan>
+            </text>
+            <g id="Group-4" transform="translate(28.000000, 261.000000)">
+                <g id="Rectangle-6">
+                    <use fill="#65CE6B" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="180" height="58"></rect>
+                </g>
+                <text id="CDN-Copy-3" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                    <tspan x="56.632" y="38">CDN</tspan>
+                </text>
+            </g>
+            <g id="Group-4-Copy" transform="translate(27.000000, 3.000000)">
+                <g id="Rectangle-6">
+                    <use fill="#65B7CE" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="180" height="58"></rect>
+                </g>
+                <text id="HTTP-server" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                    <tspan x="15.514" y="41">HTTP</tspan>
+                    <tspan x="96.09" y="41" font-size="22"> server</tspan>
+                </text>
+            </g>
+            <text id="micro-service" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#002001">
+                <tspan x="35.0457731" y="193.545773">micro</tspan>
+                <tspan x="35.0457731" y="216.545773">service</tspan>
+            </text>
+            <text id="micro-service" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#002001">
+                <tspan x="139.045773" y="222.545773">micro</tspan>
+                <tspan x="139.045773" y="245.545773">service</tspan>
+            </text>
+            <g id="Group-5" transform="translate(423.000000, 68.000000)" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal">
+                <text id="&lt;link-CSS-/&gt;" fill="#65CE6B">
+                    <tspan x="25" y="73">&lt;link </tspan>
+                    <tspan x="77.734" y="73" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">CSS</tspan>
+                    <tspan x="122.592" y="73"> /&gt;</tspan>
+                </text>
+                <text id="&lt;script-JS-/&gt;" fill="#65CE6B">
+                    <tspan x="24" y="177">&lt;script </tspan>
+                    <tspan x="98.316" y="177" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">JS</tspan>
+                    <tspan x="124.826" y="177">  /&gt;</tspan>
+                </text>
+                <text id="&lt;html&gt;-copy" fill="#65B7CE">
+                    <tspan x="0" y="21">&lt;html&gt;</tspan>
+                </text>
+                <text id="&lt;head&gt;-copy" fill="#65B7CE">
+                    <tspan x="12" y="47">&lt;head&gt;</tspan>
+                </text>
+                <text id="&lt;/head&gt;-copy" fill="#65B7CE">
+                    <tspan x="13" y="99">&lt;/head&gt;</tspan>
+                </text>
+                <text id="&lt;body&gt;" fill="#65B7CE">
+                    <tspan x="12" y="125">&lt;body&gt;</tspan>
+                </text>
+                <text id="&lt;content-/&gt;" fill="#65B7CE">
+                    <tspan x="25" y="151">&lt;content /&gt;</tspan>
+                </text>
+                <text id="&lt;/body&gt;-copy" fill="#65B7CE">
+                    <tspan x="12" y="203">&lt;/body&gt;</tspan>
+                </text>
+                <text id="&lt;/html&gt;-copy" fill="#65B7CE">
+                    <tspan x="0" y="229">&lt;/html&gt;</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,168 @@
+
+<svg width="1171px" height="413px" viewBox="0 0 1171 413" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="708" y="0" width="463" height="405" rx="8"></rect>
+        <rect id="path-2" x="714" y="47" width="451" height="351"></rect>
+        <rect id="path-3" x="0" y="0" width="181" height="156"></rect>
+        <rect id="path-4" x="152" y="97" width="180" height="110"></rect>
+        <rect id="path-5" x="0" y="0" width="323" height="61"></rect>
+        <rect id="path-6" x="0" y="0" width="323" height="61"></rect>
+        <rect id="path-7" x="0" y="0" width="323" height="61"></rect>
+        <rect id="path-8" x="0" y="0" width="323" height="61"></rect>
+        <rect id="path-9" x="0" y="118" width="90" height="61"></rect>
+        <rect id="path-10" x="0" y="0" width="181" height="59"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-4-Copy">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#979797" stroke-width="1" x="708.5" y="0.5" width="462" height="404" rx="8"></rect>
+        </g>
+        <text id="WEB-PAGE" font-family="HelveticaNeue, Helvetica Neue" font-size="25" font-weight="normal" fill="#002001">
+            <tspan x="744.85" y="35">WEB PAGE</tspan>
+        </text>
+        <g id="Rectangle-3-Copy">
+            <use fill="#111415" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#979797" stroke-width="1" x="714.5" y="47.5" width="450" height="350"></rect>
+        </g>
+        <text id="&lt;link-src=“{version}" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="763" y="150">&lt;link src=“</tspan>
+            <tspan x="868.05" y="150" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/core.css</tspan>
+            <tspan x="1056.7" y="150">” /&gt;</tspan>
+        </text>
+        <text id="&lt;link-src=“{version}" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="762" y="176">&lt;link src=“</tspan>
+            <tspan x="867.05" y="176" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/project.css</tspan>
+            <tspan x="1083.002" y="176">” /&gt;</tspan>
+        </text>
+        <text id="&lt;script-src=“{versio" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="762" y="280">&lt;script src=“</tspan>
+            <tspan x="888.632" y="280" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/core.js</tspan>
+            <tspan x="1058.956" y="280">”  /&gt;</tspan>
+        </text>
+        <text id="&lt;script-src=“{versio" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="762" y="306">&lt;script src=“</tspan>
+            <tspan x="888.632" y="306" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/project.js</tspan>
+            <tspan x="1086.258" y="306">”  /&gt;</tspan>
+        </text>
+        <text id="&lt;div-id=“app”-/&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#B8E986">
+            <tspan x="762" y="254">&lt;div id=“</tspan>
+            <tspan x="850.748" y="254" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">app</tspan>
+            <tspan x="890.26" y="254">” /&gt;</tspan>
+        </text>
+        <text id="&lt;html&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="738" y="98">&lt;html&gt;</tspan>
+        </text>
+        <text id="&lt;head&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="750" y="124">&lt;head&gt;</tspan>
+        </text>
+        <text id="&lt;/head&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="751" y="202">&lt;/head&gt;</tspan>
+        </text>
+        <text id="&lt;body&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="750" y="228">&lt;body&gt;</tspan>
+        </text>
+        <text id="&lt;/body&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="750" y="332">&lt;/body&gt;</tspan>
+        </text>
+        <text id="&lt;/html&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="738" y="358">&lt;/html&gt;</tspan>
+        </text>
+        <g id="Group-13" transform="translate(495.000000, 243.000000)" fill="#B8E986">
+            <polygon id="Triangle" transform="translate(24.500000, 13.500000) rotate(-90.000000) translate(-24.500000, -13.500000) " points="38 13.5 11 38 11 -11"></polygon>
+            <polygon id="Rectangle" transform="translate(24.000000, 35.000000) rotate(-360.000000) translate(-24.000000, -35.000000) " points="14 24 34 24 34 46 14 46"></polygon>
+        </g>
+        <g id="Group-11" transform="translate(358.000000, 127.000000)" fill="#86E9A5">
+            <polygon id="Triangle" transform="translate(32.500000, 24.500000) rotate(-360.000000) translate(-32.500000, -24.500000) " points="46 24.5 19 49 19 0"></polygon>
+            <polygon id="Rectangle" transform="translate(11.000000, 24.000000) rotate(-630.000000) translate(-11.000000, -24.000000) " points="1 13 21 13 21 35 1 35"></polygon>
+        </g>
+        <polygon id="Triangle" fill="#CB3838" transform="translate(132.500000, 147.500000) rotate(-360.000000) translate(-132.500000, -147.500000) " points="146 147.5 119 172 119 123"></polygon>
+        <polygon id="Rectangle" fill="#CB3838" transform="translate(111.000000, 147.000000) rotate(-630.000000) translate(-111.000000, -147.000000) " points="101 136 121 136 121 158 101 158"></polygon>
+        <g id="Group-14" transform="translate(175.000000, 227.000000)" fill="#86E9A5">
+            <path d="M0,49 L0,-7.10542736e-15 L19,-7.10542736e-15 L19,49 L18.903577,49 C18.9021324,49.1430211 18.9014085,49.2862147 18.9014085,49.4295775 C18.9014085,72.4427385 32.2183099,89.3032656 54.8694073,90.9216099 C56.1692903,91.0144822 63.163601,91.0387314 64.4366197,90.9216099 L64.4366197,91 L93,91 L93,76 L120,100.5 L93,125 L93,110 L64,110 L64,109.927518 C63.0060578,109.975654 62.0058721,110 61,110 C27.3106303,110 0,82.6893697 0,49 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="Group-12" transform="translate(636.000000, 130.000000)" fill="#65CE6B">
+            <polygon id="Triangle" transform="translate(32.500000, 24.500000) rotate(-360.000000) translate(-32.500000, -24.500000) " points="46 24.5 19 49 19 0"></polygon>
+            <polygon id="Rectangle" transform="translate(11.000000, 24.000000) rotate(-630.000000) translate(-11.000000, -24.000000) " points="1 13 21 13 21 35 1 35"></polygon>
+        </g>
+        <g id="Group-15" transform="translate(636.000000, 5.000000)" fill="#BBD4DB">
+            <polygon id="Triangle" transform="translate(32.500000, 24.500000) rotate(-360.000000) translate(-32.500000, -24.500000) " points="46 24.5 19 49 19 0"></polygon>
+            <polygon id="Rectangle" transform="translate(11.000000, 24.000000) rotate(-630.000000) translate(-11.000000, -24.000000) " points="1 13 21 13 21 35 1 35"></polygon>
+        </g>
+        <g id="Group-4" transform="translate(429.000000, 74.000000)">
+            <g id="Rectangle-6">
+                <use fill="#65CE6B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="180" height="155"></rect>
+            </g>
+            <text id="CDN-Copy-3" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="56.632" y="84">CDN</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-5">
+            <use fill="#86E9A5" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <rect stroke="#979797" stroke-width="1" x="152.5" y="97.5" width="179" height="109"></rect>
+        </g>
+        <g id="Group-10" transform="translate(359.000000, 352.000000)">
+            <g id="Rectangle-5">
+                <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="322" height="60"></rect>
+            </g>
+            <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="42.364" y="40">Frontend Project</tspan>
+            </text>
+        </g>
+        <g id="Group-9" transform="translate(343.000000, 338.000000)">
+            <g id="Rectangle-5">
+                <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="322" height="60"></rect>
+            </g>
+            <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="42.364" y="40">Frontend Project</tspan>
+            </text>
+        </g>
+        <g id="Group-10-Copy" transform="translate(326.000000, 324.000000)">
+            <g id="Rectangle-5">
+                <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="322" height="60"></rect>
+            </g>
+            <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="42.364" y="40">Frontend Project</tspan>
+            </text>
+        </g>
+        <g id="Group-9-Copy" transform="translate(311.000000, 310.000000)">
+            <g id="Rectangle-5">
+                <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="322" height="60"></rect>
+            </g>
+            <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="42.364" y="40">Frontend Project</tspan>
+            </text>
+        </g>
+        <text id="Core" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+            <tspan x="208.632" y="157">Core</tspan>
+        </text>
+        <g id="Rectangle-5-Copy-2">
+            <use fill="#CB3838" fill-rule="evenodd" xlink:href="#path-9"></use>
+            <rect stroke="#979797" stroke-width="1" x="0.5" y="118.5" width="89" height="60"></rect>
+        </g>
+        <text id="NPM" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="32" font-weight="bold" fill="#FFFFFF">
+            <tspan x="8.96" y="159">NPM</tspan>
+        </text>
+        <text id="Webpack-External-Dep" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#002001">
+            <tspan x="204" y="242">Webpack</tspan>
+            <tspan x="204" y="268">External</tspan>
+            <tspan x="204" y="294">Dependencies</tspan>
+        </text>
+        <g id="Group-4-Copy" transform="translate(429.000000, 0.000000)">
+            <g id="Rectangle-6">
+                <use fill="#65B7CE" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="180" height="58"></rect>
+            </g>
+            <text id="HTTP-server" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="15.514" y="41">HTTP</tspan>
+                <tspan x="96.09" y="41" font-size="22"> server</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

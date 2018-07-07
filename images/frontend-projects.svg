@@ -1,0 +1,130 @@
+
+<svg width="989px" height="388px" viewBox="0 0 989 388" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="562" y="0" width="427" height="313" rx="8"></rect>
+        <rect id="path-2" x="570" y="50" width="413" height="255"></rect>
+        <rect id="path-3" x="0" y="0" width="181" height="156"></rect>
+        <rect id="path-4" x="112" y="327" width="323" height="61"></rect>
+        <rect id="path-5" x="0" y="80" width="180" height="87"></rect>
+        <rect id="path-6" x="0" y="181" width="180" height="87"></rect>
+        <rect id="path-7" x="253" y="12" width="181" height="59"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-4-Copy">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#979797" stroke-width="1" x="562.5" y="0.5" width="426" height="312" rx="8"></rect>
+        </g>
+        <text id="WEB-PAGE" font-family="HelveticaNeue, Helvetica Neue" font-size="25" font-weight="normal" fill="#002001">
+            <tspan x="598.85" y="36">WEB PAGE</tspan>
+        </text>
+        <g id="Rectangle-3-Copy">
+            <use fill="#111415" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#979797" stroke-width="1" x="570.5" y="50.5" width="412" height="254"></rect>
+        </g>
+        <text id="&lt;link-src=“{version}" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="617" y="131">&lt;link src=“</tspan>
+            <tspan x="722.05" y="131" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/style.css</tspan>
+            <tspan x="913.12" y="131">” /&gt;</tspan>
+        </text>
+        <text id="&lt;script-src=“{versio" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65CE6B">
+            <tspan x="616" y="235">&lt;script src=“</tspan>
+            <tspan x="742.632" y="235" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">{version}/app.js</tspan>
+            <tspan x="905.608" y="235">”  /&gt;</tspan>
+        </text>
+        <text id="&lt;div-id=“app”-/&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#B8E986">
+            <tspan x="616" y="209">&lt;div id=“</tspan>
+            <tspan x="704.748" y="209" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">app</tspan>
+            <tspan x="744.26" y="209">” /&gt;</tspan>
+        </text>
+        <text id="&lt;html&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="592" y="79">&lt;html&gt;</tspan>
+        </text>
+        <text id="&lt;head&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="604" y="105">&lt;head&gt;</tspan>
+        </text>
+        <text id="&lt;/head&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="605" y="157">&lt;/head&gt;</tspan>
+        </text>
+        <text id="&lt;body&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="604" y="183">&lt;body&gt;</tspan>
+        </text>
+        <text id="&lt;/body&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="604" y="261">&lt;/body&gt;</tspan>
+        </text>
+        <text id="&lt;/html&gt;" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#65B7CE">
+            <tspan x="592" y="287">&lt;/html&gt;</tspan>
+        </text>
+        <g id="Group-2-Copy-4" transform="translate(460.000000, 184.000000)">
+            <g id="Group-Copy" transform="translate(0.000000, 26.000000)" fill="#65CE6B">
+                <polygon id="Triangle" points="144 20.5 117 41 117 0"></polygon>
+                <polygon id="Rectangle" transform="translate(59.996740, 19.500000) rotate(-270.000000) translate(-59.996740, -19.500000) " points="53.7467404 -40.0032596 66.2467404 -40.0032596 66.2467404 79.0032596 53.7467404 79.0032596"></polygon>
+            </g>
+            <text id="JS" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                <tspan x="37" y="21">JS</tspan>
+            </text>
+        </g>
+        <polygon id="Triangle" fill="#B8E986" transform="translate(343.500000, 277.500000) rotate(-90.000000) translate(-343.500000, -277.500000) " points="357 277.5 330 302 330 253"></polygon>
+        <polygon id="Rectangle" fill="#B8E986" transform="translate(343.000000, 299.000000) rotate(-360.000000) translate(-343.000000, -299.000000) " points="333 288 353 288 353 310 333 310"></polygon>
+        <g id="Group-8" transform="translate(193.000000, 200.000000)" fill="#B8E986">
+            <polygon id="Triangle" transform="translate(32.500000, 24.500000) rotate(-360.000000) translate(-32.500000, -24.500000) " points="46 24.5 19 49 19 0"></polygon>
+            <polygon id="Rectangle" transform="translate(11.000000, 24.000000) rotate(-630.000000) translate(-11.000000, -24.000000) " points="1 13 21 13 21 35 1 35"></polygon>
+        </g>
+        <g id="Group-8-Copy" transform="translate(194.000000, 105.000000)" fill="#B8E986">
+            <polygon id="Triangle" transform="translate(32.500000, 24.500000) rotate(-360.000000) translate(-32.500000, -24.500000) " points="46 24.5 19 49 19 0"></polygon>
+            <polygon id="Rectangle" transform="translate(11.000000, 24.000000) rotate(-630.000000) translate(-11.000000, -24.000000) " points="1 13 21 13 21 35 1 35"></polygon>
+        </g>
+        <g id="Group-2-Copy-5" transform="translate(460.000000, 87.000000)">
+            <g id="Group-Copy" transform="translate(0.000000, 20.000000)" fill="#65CE6B">
+                <polygon id="Triangle" points="144 20.5 117 41 117 0"></polygon>
+                <polygon id="Rectangle" transform="translate(59.996740, 19.500000) rotate(-270.000000) translate(-59.996740, -19.500000) " points="53.7467404 -40.0032596 66.2467404 -40.0032596 66.2467404 79.0032596 53.7467404 79.0032596"></polygon>
+            </g>
+            <text id="CSS" font-family="HelveticaNeue, Helvetica Neue" font-size="22" font-weight="normal" fill="#575757">
+                <tspan x="27" y="21">CSS</tspan>
+            </text>
+        </g>
+        <polygon id="Triangle" fill="#BBD4DB" points="539 39.5 512 60 512 19"></polygon>
+        <polygon id="Rectangle" fill="#BBD4DB" transform="translate(487.746740, 39.500000) rotate(-270.000000) translate(-487.746740, -39.500000) " points="481.49674 12.2467404 493.99674 12.2467404 493.99674 66.7532596 481.49674 66.7532596"></polygon>
+        <g id="Group-4" transform="translate(253.000000, 95.000000)">
+            <g id="Rectangle-6">
+                <use fill="#65CE6B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="180" height="155"></rect>
+            </g>
+            <text id="CDN-Copy-3" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+                <tspan x="56.632" y="84">CDN</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-5">
+            <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <rect stroke="#979797" stroke-width="1" x="112.5" y="327.5" width="322" height="60"></rect>
+        </g>
+        <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+            <tspan x="154.364" y="367">Frontend Project</tspan>
+        </text>
+        <g id="Rectangle-5-Copy">
+            <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <rect stroke="#979797" stroke-width="1" x="0.5" y="80.5" width="179" height="86"></rect>
+        </g>
+        <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+            <tspan x="25.18" y="116">Frontend</tspan>
+            <tspan x="39.132" y="153">Project</tspan>
+        </text>
+        <g id="Rectangle-5-Copy">
+            <use fill="#B8E986" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <rect stroke="#979797" stroke-width="1" x="0.5" y="181.5" width="179" height="86"></rect>
+        </g>
+        <text id="Frontend-Project" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+            <tspan x="25.18" y="217">Frontend</tspan>
+            <tspan x="39.132" y="254">Project</tspan>
+        </text>
+        <g id="Rectangle-6">
+            <use fill="#65B7CE" fill-rule="evenodd" xlink:href="#path-7"></use>
+            <rect stroke="#979797" stroke-width="1" x="253.5" y="12.5" width="180" height="58"></rect>
+        </g>
+        <text id="HTTP-server" font-family="HelveticaNeue, Helvetica Neue" font-size="32" font-weight="normal" fill="#002001">
+            <tspan x="268.514" y="53">HTTP</tspan>
+            <tspan x="349.09" y="53" font-size="22"> server</tspan>
+        </text>
+    </g>
+</svg>
